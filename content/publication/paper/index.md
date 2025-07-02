@@ -27,8 +27,8 @@ publishDate: '2023-07-19T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: ICECCME
-publication_short: ICECCME
+publication: "ICECCME"
+publication_short: "ICECCME"
 
 abstract: Feature engineering on financial records for bankruptcy prediction has traditionally relied significantly on domain knowledge and typically results in a range of financial ratios but with limited complexity and feature utilization due to manual design. It is often a time-consuming and error-prone procedure, confined to the domain experts’ experience, without taking into account the characteristics of different data sets. In this paper, we propose an automated feature engineering approach to generate effective, explainable, and extensible model training features. The experiments have been conducted using a publicly available record of financial statements submitted to the Luxembourg Business Registers. This approach aims to improve bankruptcy prediction for professionals who may not possess the necessary engineering expertise or efficient data. The experimental results suggest that the proposed approach can provide valuable features for model training and in most of the cases, the model’s outcomes outperforms predominantly as compared to the traditional approaches and the well-known approaches the models, thus can provide valuable features for model training.
 
