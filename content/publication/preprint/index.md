@@ -21,10 +21,11 @@ publication_short: "IC2023"
 abstract: Credit risk assessment of a company is commonly conducted by utilizing financial ratios that are derived from its financial statements. However, this approach may not fully encompass other significant aspects of a company. We propose the utilization of a hybrid dataset that combines financial statements with information about corporate restructuring behavior in order to construct diverse machine learning models to predict bankruptcy. Utilizing a hybrid data set provides a more comprehensive and holistic perspective on a company’s financial position and the dynamics of its business operations. The experiments were carried out using publicly available records of all the files submitted by small and medium-sized enterprises to Luxembourg Business Registers. We conduct a comparative analysis of bankruptcy prediction using six machine learning models. Furthermore, we validate the effectiveness of the hybrid dataset. In addition to the conventional testing set, we deliberately chose the timeframe encompassing the years of the Covid-19 pandemic as an additional testing set in order to evaluate the robustness of the models. The experimental results demonstrate that the hybrid data set can improve the performance of the model by 4%–13% compared to a single source data set. We also identify suitable models for predicting bankruptcy.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study proposes a hybrid dataset combining financial statements and corporate restructuring behavior to enhance bankruptcy prediction, demonstrating through experiments on Luxembourg SME data that this approach improves model performance by 4%–13% and offers greater robustness during the Covid-19 period.
+
 
 tags:
-- Large Language Models
+- Machine learning
 
 featured: true
 
