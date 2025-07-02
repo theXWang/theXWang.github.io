@@ -25,16 +25,16 @@ publishDate: '2025-01-19T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "FinNLP@COLING" 
-publication_short: "FinNLP@COLING"
+publication: In *FinNLP@COLING*
+publication_short: In *FinNLP@COLING*
 
-abstract: "Since GPT-3.5’s release, large language models (LLMs) have made significant advancements, including in financial analysis. However, their effectiveness in financial calculations and predictions is still uncertain. This study examines LLMs’ ability to analyze financial reports, focusing on three questions: their accuracy in calculating financial ratios, the use of these metrics in DuPont analysis and the Z-score model for bankruptcy prediction, and their effectiveness in predicting financial indicators with limited knowledge. We used various methods, including zero-shot and few-shot learning, retrieval-augmented generation (RAG), and fine-tuning, in three advanced LLMs and compared their outputs to ground truth and expert predictions to assess their calculation and predictive abilities. The results highlight both the potential and limitations of LLMs in processing numerical data and performing complex financial analyses."
+abstract: Since GPT-3.5’s release, large language models (LLMs) have made significant advancements, including in financial analysis. However, their effectiveness in financial calculations and predictions is still uncertain. This study examines LLMs’ ability to analyze financial reports, focusing on three questions: their accuracy in calculating financial ratios, the use of these metrics in DuPont analysis and the Z-score model for bankruptcy prediction, and their effectiveness in predicting financial indicators with limited knowledge. We used various methods, including zero-shot and few-shot learning, retrieval-augmented generation (RAG), and fine-tuning, in three advanced LLMs and compared their outputs to ground truth and expert predictions to assess their calculation and predictive abilities. The results highlight both the potential and limitations of LLMs in processing numerical data and performing complex financial analyses.
 
 # Summary. An optional shortened abstract.
-summary: "This study evaluates advanced LLMs' ability to perform financial analysis—calculating ratios, applying predictive models, and forecasting indicators—revealing both their potential and limitations in handling complex numerical tasks."
+summary: This study evaluates advanced LLMs' ability to perform financial analysis—calculating ratios, applying predictive models, and forecasting indicators—revealing both their potential and limitations in handling complex numerical tasks.
 
 tags:
-  - "Large Language Models"
+  - Large Language Models
 
 # Display this page in the Featured widget?
 featured: true
