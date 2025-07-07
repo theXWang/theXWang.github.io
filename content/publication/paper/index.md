@@ -61,7 +61,7 @@ url_pdf: 'https://orbilu.uni.lu/bitstream/10993/58220/1/AFE_for_ICECCME.pdf'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/newspapers-are-stacked-on-top-of-each-other-WZ5z7o_6HSU)'
+  caption: 'Comparison of proposed method and financial ratios'
   focal_point: ''
   preview_only: false
 

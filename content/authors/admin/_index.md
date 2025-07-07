@@ -99,6 +99,38 @@ work:
       * Multimodal Feature Engineering: Cleaned and enriched data from structured data and unstructured text including property listings, user clickstreams, and customer reviews. Extracted semantic features from loan applications and collateral descriptions using pre-trained BERT, significantly boosting model signal quality for credit risk assessment.
       * Scalable ML Pipeline Development: Deployed models via Alibaba Cloud, designing and maintaining Airflow DAGs to automate end-to-end workflows — from data extraction and feature generation to model inference and monitoring. Iterated to achieve 0.87 AUC in production and implemented automated retraining triggers based on PSI and AUC thresholds.
 
+  - position: Data Scientist
+    company_name: Bairong Inc.
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-11-01
+    date_end: 2020-07-31
+    summary: |
+      * Credit Risk & Fraud Modeling: Developed customized credit scoring models for financial clients using advanced models (logistic regression, LightGBM and DNN), tailored to diverse datasets including transaction records, telecom logs, and utility bills. Researched and applied anomaly detection techniques including unsupervised (Isolation Forest) and semi-supervised (PU learning) algorithms to improve fraud detection performance, resulting in a 25% lift in recall on historical fraud events.
+      * Cross-Team Collaboration & Model Delivery: Collaborated with product, engineering, and client teams to align model pipelines with deployment infrastructure (batch scoring, APIs, scorecards). Took ownership of data extraction, feature engineering, and result formatting; delivered clear technical documentation and model outputs, and explained model behaviors to both technical and non-technical stakeholders using SHAP and intuitive visualizations. 
+      
+  - position: Algorithm Engineer
+    company_name: Vcredit Ltd.
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-07-01
+    date_end: 2019-10-31
+    summary: |
+      * Credit Risk Modeling (End-to-End): Developed full-cycle consumer credit risk scoring models using Python (scikit-learn, LightGBM, XGBoost), covering data preprocessing (PySpark, Hive), feature engineering (SMOTE for imbalanced data), hyperparameter tuning (Grid Search, Bayesian Optimization), performance validation (cross-validation, KS, AUC), and model deployment (Docker).
+      * Model Monitoring & Calibration: Monitored model stability using drift metrics (PSI, KS, AUC) and recalibrated as needed to maintain performance and compliance with risk governance standards.
+      * Third-Party Data Evaluation: Assessed external data sources using SHAP values and permutation importance to measure predictive uplift; integrated selected features into risk pipelines, enhancing AUC and KS (customize with exact metrics if available).    
+
+  - position: Data Analyst
+    company_name: China Telecom Ltd.
+    company_url: ''
+    company_logo: ''
+    date_start: 2013-08-01
+    date_end: 2016-08-31
+    summary: |
+      * KPI Monitoring & Dashboarding: Monitored the sales KPIs (GMV, new-subscriber growth, churn rate etc.) from Oracle database on 3 million users; built automated daily, weekly, and monthly reports using SQL, Power BI, and Excel VBA to support decision-making.
+      * A/B Testing & Strategy Optimization: Implemented multi-dimensional analysis (cost, conversion, ROI) across different distributors to identify high-performing partners; designed and implemented A/B tests to optimize marketing spend and resource allocation, resulting in a 7% lift in new user acquisition.
+      * Customer Segmentation: Built RFM models on different business to segment customers to identify high-value and at-risk users, and uncovering preferences to guide targeted marketing. 
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
